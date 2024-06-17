@@ -1,0 +1,5 @@
+[default]
+entity = hhz
+project = slide-captcha
+base_url = https://api.wandb.ai
+
